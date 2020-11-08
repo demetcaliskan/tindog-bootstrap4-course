@@ -119,6 +119,43 @@ h2 {
   padding: 3% 2%;
 }
 
+/* Call To Action */
+#cta {
+  background-color: #ff4c68;
+  padding: 7% 15% 5%;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.cta-title {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+/* Footer */
+#footer {
+  padding: 7% 15%;
+  width: 100%;
+  background-color: #fff;
+  text-align: center;
+  line-height: 3;
+}
+
+.footer-icon {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.footer-p {
+  color: #8f8f8f;
+  padding: 0 1.5rem;
+  font-weight: normal;
+  font-size: 1.25rem;
+}
+
 @media (max-width: 1028px) {
   #title {
     text-align: center;
