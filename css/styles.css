@@ -21,11 +21,9 @@ h2 {
   background-color: #ff4c68;
   color: white;
 }
-
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
-
 /* Navigation Bar */
 .navbar {
   padding: 0 0 4.5rem;
@@ -56,11 +54,15 @@ h2 {
 .title-img {
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
 }
 
 /* Features */
 #features {
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
 }
 
 .features-img {
